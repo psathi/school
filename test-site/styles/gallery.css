@@ -1,0 +1,50 @@
+content{
+margin-right:2%;
+float:left;
+}
+
+.first-paragraph{
+	border-left: 8px solid #3CB371;
+	border-radius: 4px;
+	position: absolute;
+	width:45%;
+	margin-left: 2%;
+}
+	
+.gallery-paragraph-2{
+border-right:8px solid #3CB371;
+border-radius:4px;
+width:45%;
+margin-left: 55%;
+margin-right: 2%;
+}
+
+.campus{
+	position: absolute;
+	width:45%;
+	margin-left: 2%;
+}
+	
+.local{
+border-left: 3px solid black;
+width:45%;
+margin-left: 55%;
+padding-bottom: 77%;
+margin-right: 2%;
+}
+
+.first{
+	position: absolute;
+	width:50%;
+	margin-left: 2%;
+}
+	
+.second{
+width:50%;
+margin-right: 2%;
+margin-left: 50%;
+}
+
+.clearfix{
+clear:both
+}

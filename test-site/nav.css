@@ -1,0 +1,35 @@
+body {
+text-align: center;
+background:#cccccc;
+}
+
+
+.nav ul{
+	border:1px solid #e7e7e7;
+  list-style:none;
+  margin: 0px;
+  padding: 0;
+  background-color:#008e8e;
+}
+
+.nav li {
+   display: none;
+   padding: 14px 16px;
+   margin: 50px;
+}
+
+.nav a {
+  font-weight: normal;
+  padding: 8px 18px;
+  font-size: 20px;
+  overflow:auto
+}
+
+.nav a:hover{
+	background-color:#005f5f;
+}
+
+.nav a:active{
+	background-color#005f5f;
+	cursor: default;
+}
